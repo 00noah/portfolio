@@ -1,3 +1,11 @@
 body {
   background-color: grey;
 }
+
+.nhh-pic {
+  background-image: url("../img/IMG_20190711_181454-nh_in_elevator.jpg");
+  background-size: cover;
+  padding-bottom: 150%;
+  color: blue;
+  font-weight: bolder;
+  }
