@@ -6,6 +6,11 @@ body {
   background-image: url("../img/IMG_20190711_181454-nh_in_elevator.jpg");
   background-size: cover;
   padding-bottom: 150%;
-  color: blue;
+  color: red;
   font-weight: bolder;
   }
+
+blockquote {
+  font-size: 12px;
+  font-style: italic;
+}
