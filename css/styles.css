@@ -61,8 +61,8 @@ blockquote {
   border-top: 1px solid #ddd;
 }
 
-.img {
-  float: right;
-  display:inline-block;
-  height: 15px;
-}
+.nhh-img {
+  background-image: url("../img/IMG_20190711_181454-nh_in_elevator.jpg");
+  background-size: cover;
+  padding-bottom: 150%;
+  }
