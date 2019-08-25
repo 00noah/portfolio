@@ -56,23 +56,19 @@ blockquote {
   font-size: 18px;
 }
 
-.nhh-pic {
-  background-image: url("../img/IMG_20190711_181454-nh_in_elevator.jpg");
-  background-size: cover;
-  padding-bottom: 120%;
+
+.nhh-img {
+  /* background-image: url("../img/IMG_20190711_181454-nh_in_elevator.jpg"); */
+  /* background-size: cover; */
+  /* padding-bottom: 120%; */
   color: red;
   font-weight: bolder;
   }
 
 @media (max-width: 768px) {
-  .well > .nhh-pic {
+  .well > .nhh-img {
     margin: 20%;
-    background-size: cover;
     color: blue;
     font-weight: bolder;
   }
-}
-
-.clearfix {
-  overflow: auto;
 }
