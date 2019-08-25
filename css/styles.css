@@ -62,7 +62,13 @@ blockquote {
 }
 
 .nhh-img {
-  background-image: url("../img/IMG_20190711_181454-nh_in_elevator.jpg");
-  background-size: cover;
+  float: right;
+}
+
+.well {
   padding-bottom: 150%;
-  }
+}
+
+.jumbotron {
+  font-size: 18px;
+}
