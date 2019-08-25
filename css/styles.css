@@ -8,6 +8,21 @@ body {
   margin-right: auto;
   margin-left: auto;
 }
+@media (min-width: 768px) {
+  .container {
+    width: 758px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 982px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1190px;
+  }
+}
 
 .nhh-pic {
   background-image: url("../img/IMG_20190711_181454-nh_in_elevator.jpg");
@@ -44,4 +59,10 @@ blockquote {
   line-height: 1.42857143;
   vertical-align: top;
   border-top: 1px solid #ddd;
+}
+
+.img {
+  float: right;
+  display:inline-block;
+  height: 15px;
 }
