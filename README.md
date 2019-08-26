@@ -10,7 +10,7 @@ Welcome to the README for my professional portfolio. I look forward to growing m
 
 ###### Links to site on GitHub Pages:
   * [Click here](https://github.com/00noah/portfolio) to view my _portfolio_ GitHub repository.
-  * [Click here](00noah.github.io/portfolio) to view my _portfolio_ GH-Pages site.
+  * [Click here](https://00noah.github.io/portfolio) to view my _portfolio_ GH-Pages site.
 
 
 ![A random image.](http://lorempixel.com/300/150/)
