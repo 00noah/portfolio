@@ -57,24 +57,31 @@ blockquote {
 }
 
 
-.nhh-img {
+.contact {
   /* background-image: url("../img/IMG_20190711_181454-nh_in_elevator.jpg"); */
   /* background-size: cover; */
-  /* padding-bottom: 120%; */
   color: green;
   font-weight: bolder;
-  padding-top: 10%;
-  padding-bottom: 90%;
-
+  padding-top: 226px;
+  padding-bottom: 12%;
   }
 
+.well {
+  background-image: url(http://lorempixel.com/g/768/500/city);
+  background-size: cover;
+  /* display: block; */
+}
+
 @media (max-width: 768px) {
-  .well > .nhh-img {
+  .well > .contact {
     padding: 20%;
     color: blue;
     font-weight: bolder;
     padding-bottom: 1%;
     padding-top: 1%;
     text-align: center;
+  }
+  .ifsmall {
+    display: none;
   }
 }
