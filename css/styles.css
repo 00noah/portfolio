@@ -57,9 +57,9 @@ blockquote {
   color: blue;
   background-color: #a9a9a9;
   background-image: url(http://lorempixel.com/g/1200/800/city);
-  background-size: auto;
+  /* background-size: auto; */
   background-position: left;
-  background-position: bottom;
+  /* background-position: top; */
 
 }
 
@@ -67,7 +67,9 @@ blockquote {
   background-color: #a9a9a9;
   background-image: url(http://lorempixel.com/g/1200/800/city);
   background-position: right;
-  background-position: bottom;
+  /* background-position: top; */
+  /* background-size: auto; */
+
 
 }
 
@@ -91,4 +93,8 @@ blockquote {
   .ifsmall {
     display: none;
   }
+}
+
+.highlight {
+  background: rgba(128, 128, 255, 0.66);
 }
