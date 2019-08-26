@@ -1,7 +1,6 @@
 body {
   background-color: grey;
 }
-
 .container {
   padding-right: 15px;
   padding-left: 15px;
@@ -23,23 +22,19 @@ body {
     width: 1190px;
   }
 }
-
 blockquote {
   font-size: 12px;
 }
-
 .legal {
   text-align: center;
+  background-image: linear-gradient(to right, rgba(255,0,0,0.75), rgba(255,202,128,0.75))
 }
-
 .table-striped > tbody > tr:nth-of-type(odd) {
   background-color: #e6e6e6;
 }
-
 .table-hover > tbody > tr:hover {
   background-color: #80bdff;
 }
-
 .table > thead > tr > th,
 .table > tbody > tr > th,
 .table > tfoot > tr > th,
@@ -51,37 +46,24 @@ blockquote {
   vertical-align: top;
   border-top: 1px solid #ddd;
 }
-
 .jumbotron {
   font-size: 18px;
-  color: blue;
+  color: #003180;
   background-color: #a9a9a9;
   background-image: url(http://lorempixel.com/g/1200/800/city);
-  /* background-size: auto; */
   background-position: left;
-  /* background-position: top; */
-
 }
-
 .well {
   background-color: #a9a9a9;
   background-image: url(http://lorempixel.com/g/1200/800/city);
   background-position: right;
-  /* background-position: top; */
-  /* background-size: auto; */
-
-
 }
-
 .contact {
-  /* background-image: url("../img/IMG_20190711_181454-nh_in_elevator.jpg"); */
-  /* background-size: cover; */
   color: green;
   font-weight: bolder;
   padding-top: 226px;
-  padding-bottom: 12%;
+  padding-bottom: 6%;
   }
-
 @media (max-width: 768px) {
   .well > .contact {
     padding: 20%;
@@ -94,7 +76,6 @@ blockquote {
     display: none;
   }
 }
-
 .highlight {
-  background: rgba(128, 128, 255, 0.66);
+  background-image: linear-gradient(to right, rgba(255,202,128,0.75), rgba(255,0,0,0.75))
 }

@@ -1,12 +1,12 @@
 # **Readme** for the Portfolio of Noah Horwitz
 ### By Noah Horwitz
 
-###### Introduction:
+###### Description of program:
 Welcome to the README for my professional portfolio. I look forward to growing my breadth of understanding in coding, and sharing those growths with the community!
 > A person who never made a mistake never tried anything new. – Albert Einstein
 
 ###### Program setup instructions:
-* This project should be viewable with an internet connection and browser.
+* This project should be viewable with an internet connection and web browser.
 
 ###### Links to site on GitHub Pages:
   * [Click here](https://github.com/00noah/portfolio) to view my _portfolio_ GitHub repository.
