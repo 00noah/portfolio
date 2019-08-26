@@ -61,8 +61,11 @@ blockquote {
   /* background-image: url("../img/IMG_20190711_181454-nh_in_elevator.jpg"); */
   /* background-size: cover; */
   /* padding-bottom: 120%; */
-  color: red;
+  color: green;
   font-weight: bolder;
+  padding-bottom: 100%;
+  padding-top: 100%;
+
   }
 
 @media (max-width: 768px) {
@@ -70,5 +73,8 @@ blockquote {
     padding: 20%;
     color: blue;
     font-weight: bolder;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    text-align: center;
   }
 }
