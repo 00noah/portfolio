@@ -56,18 +56,19 @@ blockquote {
   font-size: 18px;
   color: blue;
   background-color: #a9a9a9;
-  background-image: url(http://lorempixel.com/g/1191/794/city);
+  background-image: url(http://lorempixel.com/g/1200/800/city);
   background-size: auto;
   background-position: left;
-  text-emphasis-style: triangle;
+  background-position: bottom;
 
 }
 
 .well {
   background-color: #a9a9a9;
-  background-image: url(http://lorempixel.com/g/1191/794/city);
+  background-image: url(http://lorempixel.com/g/1200/800/city);
   background-position: right;
-  background-size: cover;
+  background-position: bottom;
+
 }
 
 .contact {
@@ -83,7 +84,6 @@ blockquote {
   .well > .contact {
     padding: 20%;
     color: blue;
-    font-weight: bolder;
     padding-bottom: 1%;
     padding-top: 1%;
     text-align: center;
