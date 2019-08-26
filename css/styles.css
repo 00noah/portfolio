@@ -54,8 +54,21 @@ blockquote {
 
 .jumbotron {
   font-size: 18px;
+  color: blue;
+  background-color: #a9a9a9;
+  background-image: url(http://lorempixel.com/g/1191/794/city);
+  background-size: auto;
+  background-position: left;
+  text-emphasis-style: triangle;
+
 }
 
+.well {
+  background-color: #a9a9a9;
+  background-image: url(http://lorempixel.com/g/1191/794/city);
+  background-position: right;
+  background-size: cover;
+}
 
 .contact {
   /* background-image: url("../img/IMG_20190711_181454-nh_in_elevator.jpg"); */
@@ -65,12 +78,6 @@ blockquote {
   padding-top: 226px;
   padding-bottom: 12%;
   }
-
-.well {
-  background-image: url(http://lorempixel.com/g/768/500/city);
-  background-size: cover;
-  /* display: block; */
-}
 
 @media (max-width: 768px) {
   .well > .contact {
